@@ -6,7 +6,7 @@ Select name,max(salary)
   from Employee));
 
 
--- approach
+-- approach2
 
 Select name,salary
   from Employee
